@@ -6,7 +6,7 @@ if score < 0 or score > 100:
     print("Error: Score must be between 0 and 100")
 else:
     # Check if passing or failing
-    if score >= 75:
+    if score >= 60:
         print("Result: Safe ")
     else:
         print("Result: Mag impake kana kay baka mapalayas ka ")
